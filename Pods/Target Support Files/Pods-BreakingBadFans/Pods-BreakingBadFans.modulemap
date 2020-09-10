@@ -1,0 +1,6 @@
+framework module Pods_BreakingBadFans {
+  umbrella header "Pods-BreakingBadFans-umbrella.h"
+
+  export *
+  module * { export * }
+}

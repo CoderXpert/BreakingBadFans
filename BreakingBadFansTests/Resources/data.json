@@ -1,0 +1,15 @@
+[
+    {
+      "char_id":1,
+      "name":"Walter White",
+      "birthday":"09-07-1958",
+      "occupation":[
+         "High School Chemistry Teacher",
+         "Meth King Pin"
+      ],
+      "img":"https://s-i.huffpost.com/gen/1317262/images/o-ANNA-GUNN-facebook.jpg",
+      "status":"Presumed dead",
+      "nickname":"Heisenberg",
+      "appearance":[1]
+   }
+]
